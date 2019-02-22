@@ -1,0 +1,6 @@
+a=int(input("digite el numero que desee"))
+c=int(input("digite otro numero de interes:V"))
+DobleA=(2*a)
+producto=(a*c)
+print(("el doble de A es: "), DobleA)
+print(("el producto de a y c es: "), producto)
